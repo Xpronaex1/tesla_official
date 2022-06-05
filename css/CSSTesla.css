@@ -1,0 +1,241 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+:root{
+    font-family: 'Prompt', sans-serif;
+    color:aliceblue;
+    background: #111111;
+    margin-left: 0px;
+}
+.naviges{
+    display: flex;
+    /*min-height: 100vh;*/
+   /* border: 2px solid #2250ee;*/
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 250px;
+    padding-left: 15px;
+    padding-right: 15px;
+   
+   
+}
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.contacts3 a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.2em;
+}
+.contacts3 a:hover{
+    color: #2250ee;
+
+}
+
+.loog{
+    font-size: 1.3em;
+   
+    
+}
+.lohfo{
+   
+    
+
+    
+}
+
+
+.photo-nav{
+   
+     width: 30px;
+    
+    } 
+
+
+
+
+.main{
+    margin: 0 auto;
+    text-align: center;
+    
+    
+    
+}
+.rona{
+    margin-top: 80px;
+}
+
+.auto{
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: center;
+    margin-top:-100px;
+ 
+}
+.header{ 
+    
+    background-image: url(../photo/пппп.jpg);
+    margin-left: 0px;
+   margin-right: 0px;
+
+}
+.button{
+   padding-top: 15px;
+   padding-bottom: 110px;
+
+}
+
+.con2{
+    text-decoration:none;
+    color: aliceblue;
+  
+}
+.con2:hover{
+    color:blue;
+}
+.photo-nav:hover{
+ background-color: #0d0501;
+ box-shadow: 5px 6px 40px rgb(189, 132, 179);
+  
+}
+
+.h2com{
+    font-size: 1.4em;
+    font-weight: bold;
+
+}
+.button1{
+    padding: 10px 20px;
+    border: 3px solid white;
+    background-color: rgba(255,255,255,0);
+    color: #fff;
+   font-size: 1em;
+   text-decoration:none;
+   
+}
+.button2{
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color:#2250ee;
+    border: 3px solid #2250ee;
+    font-weight: bold;
+    font-size: 1em;
+    color: #fff;
+    text-decoration:none;
+    margin-top: 100px;
+
+
+    }
+    .button{
+        margin-top: 40px;
+    }
+.button1:hover{
+background-color: antiquewhite;
+color: black;
+box-shadow: 3px 5px 30px #d677ee;
+}
+.button2:hover{
+    background-color: antiquewhite;
+    color: black;
+    border: 3px solid #fff; 
+    box-shadow: 3px 5px 30px #d677ee;
+   
+  
+   
+    
+   
+    }
+.tesla-logo{
+    font-size: 3em;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 0px;
+    
+}
+.class2{
+    
+    margin-top: 0px;
+    color: #d4cfc9;
+    margin-bottom: 5px;
+}
+ h3{
+    color: #d4cfc9;
+    font-size: 1.3;
+    font-weight:bold;
+ }
+
+
+
+.flex{
+    display: flex;
+    min-height: 70vh;
+    text-align: center;
+    gap: 10px;}
+    .flex p{
+        color: #5c676d;
+    }
+.flex img{
+    opacity: 0.7;
+}
+ 
+
+.div1{
+    background: #1b1b1b;
+    width: 33%;
+    padding-top: 20px;
+    margin-left: 10px;
+    
+  
+    
+}
+.div2{
+    background:#1b1b1b;
+    width: 33%;
+    padding-top: 20px;
+    margin-left: 20px;
+   
+   
+}
+.div3{
+    background: #1b1b1b;
+    width: 33%;
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.form{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.tot{
+    font-size: 25px;
+    font-weight:bold;
+    
+}
+.rit{
+    color: #5c676d;
+}
+.input1{
+    padding: 10px 20px;
+    text-align: center;
+    font-weight:bold;
+    
+}
+.input2{
+    padding: 10px 20px;
+    text-align: center;
+    font-weight:bold;
+}
+.input3{
+    padding: 10px 20px;
+    text-align: center;
+    font-weight:bold;
+}
+.input3:hover{
+    background-color: antiquewhite;
+    color: black;
+    box-shadow: 3px 5px 30px #d677ee;
+    }
